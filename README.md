@@ -1,2 +1,2 @@
-# Converts-media-files-to-mp4
+# Convert-Media-Files-to-Mp4
 A simple bat file that converts multiple media files into mp4. This program requires you to have ffmpeg to be set up. The media files could be m4a, aac, mp3, wav, mp4, flac, etc. The program will ask for the folder path, after inputting it, the program will convert all media files to mp4. It is possible to change the program to convert to another format if you so choose to. The main reason this program was made was to correctly reformat media files for editing in video or subtitle editing software.
